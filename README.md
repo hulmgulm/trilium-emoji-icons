@@ -5,6 +5,8 @@ This icon pack allows to use most of the emoji characters as note icons.
 
 See the TriliumNext documentation about [how to install the icon pack](https://docs.triliumnotes.org/user-guide/concepts/themes/icon-packs).
 
+The icon pack uses the English default emoji descriptions from this page: https://unicode.org/emoji/charts/full-emoji-list.html
+
 The manifest got created by the the Manifest Creation Script included in the zip file.
 
 The font is the [Google Noto Color Emoji](https://github.com/googlefonts/noto-emoji/tree/main/fonts) font, distributed under the [SIL Open Font License](https://raw.githubusercontent.com/googlefonts/noto-emoji/refs/heads/main/fonts/LICENSE). 
